@@ -10,9 +10,9 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
-    "ADMINBOT": [
+    "BOTNAME": "bby",
+    "PREFIX": ".",
+    "ADMINBOT": [100049763741416
         "USERID1",
         "USERID2"
     ],
